@@ -1,4 +1,4 @@
-module rasulalizadeh/gokit-api
+module github.com/rasulalizadeh/gokit-api
 
 go 1.15
 

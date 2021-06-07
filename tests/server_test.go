@@ -3,10 +3,11 @@ package tests
 import (
 	"log"
 	"net/http"
-	"rasulalizadeh/gokit-api/controller"
-	"rasulalizadeh/gokit-api/router"
 	"testing"
 	"time"
+
+	"github.com/rasulalizadeh/gokit-api/controller"
+	"github.com/rasulalizadeh/gokit-api/router"
 
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
